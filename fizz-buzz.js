@@ -1,6 +1,5 @@
 //Initialise user inputs
 var value1;
-var value2;
 var choice;
 var loop = "y";
 
